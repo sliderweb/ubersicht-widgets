@@ -111,8 +111,8 @@ style: """
   top: 45%
   left: 50%
   font-family: 'Ubuntu', sans-serif
-  font-size: 16px
-  line-height: 1
+  font-size: 17px
+  line-height: 2rem
   text-transform: uppercase
   transform: translate(-50%, -50%)
 
